@@ -1,0 +1,215 @@
+html {
+    color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+* {
+    margin: 0%;
+}
+
+
+.iconnav {
+    width: 250px;
+    position: fixed;
+    z-index: 1;
+    top: 0px;
+    bottom: 0px;
+    background: #050505;
+    overflow-x: hidden;
+    padding: 0px;
+    bottom: 0px;
+
+}
+
+div.github, div.linkedin, div.email {
+    display: inline-block;
+    padding-bottom: 20px;
+
+}
+
+.fa {
+    padding: 10px;
+    width: 15px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 55%;
+    margin-left: 25px ;
+    margin-right: 20px;
+  }
+  
+.fa:hover {
+    color: white;
+  }
+  
+.fa-github {
+    background: #050505;
+    color: #bababa;
+    border: 2px solid white;
+    padding: 5px;
+    width: 25px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+    margin: 3px;
+    margin-left: 30px;
+    vertical-align: middle;
+    margin-top: 40px;
+}
+.fa-linkedin {
+    background:#050505;
+    color: #bababa;
+    border: 2px solid white;
+    padding: 5px;
+    width: 25px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+    margin: 3px;
+    margin-left: 30px;
+    vertical-align: middle;
+    margin-top: 40px;
+  }
+  
+.fa-envelope {
+    background: #050505;
+    color: #bababa;
+    border: 2px solid white;
+    padding: 5px;
+    width: 25px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+    margin: 3px;
+    margin-left: 30px;
+    vertical-align: middle;
+    margin-top: 40px;
+}
+
+h1.title {
+    text-align: center;
+    color: white;
+    border: black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+img.profile_picture {
+    border-radius: 50%;
+    object-fit: cover;
+    width: 180px;
+    height: 180px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid white; 
+    margin-bottom: 40px;
+    margin-top: 15px;
+}
+
+  
+.iconnav a {
+    padding-top: 12px;
+    padding-left: 4px;
+    text-decoration:#050505;
+    font-size: 18px;
+    color: #bababa;
+    display: block;
+}
+  
+.iconnav a:hover {
+    color: white;
+}
+
+a.active {
+    color:white;
+}
+
+.fa-home {
+    margin-left: 25px;
+    margin-right: 7px;
+    padding-right: 0px;
+}
+
+.fa-user {
+    margin-left: 25px;
+    margin-right: 7px;
+    padding-right: 0px;
+}
+
+.fa-file-text-o {
+    margin-left: 25px;
+    margin-right: 7px;
+    padding-right: 0px;
+}
+
+.fa-pencil {
+    margin-left: 25px;
+    margin-right: 7px;
+    padding-right: 0px;
+}
+
+
+.fa-folder {
+    margin-left: 25px;
+    margin-right: 7px;
+    padding-right: 0px;
+}
+
+.fa-smile-o {
+    margin-left: 25px;
+    margin-right: 7px;
+    padding-right: 0px;
+}
+
+.fa-ellipsis-v {
+    margin-left: 25px;
+    margin-right: 7px;
+    padding-right: 0px;
+}
+p.copyright {
+    padding-top: 20px;;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: 12px;
+    text-align: center;
+}
+
+div.page {
+    margin: 0%;
+    background:#e1e1e6 fixed;
+    padding-top: 20px;
+    padding-left: 50px;
+    padding-bottom: 50px;;
+    height: 100px;
+}
+
+p.about_me_description {
+    margin-left: 250px;
+    font-size: 30px;
+    color: black;
+    width: 700px;
+
+}
+
+.main {
+    margin: 0%;
+    margin-left: 250px;
+    font-size: 28px; 
+    background:#e1e1e6 fixed;
+    height: 700px;
+    padding-top: 20px;
+    padding-left: 50px;
+    display: flex;
+}
+
+div.bottom_bar {
+    background-color: #5945f5;
+    height: 50px;
+}
+
+h1.about_title {
+    margin-left: 250px;
+    padding-top: 30px;
+    font: 40px;
+    color: #5945f5;
+}
