@@ -216,5 +216,16 @@ p.about_me_description {
 
 p.subsection {
     margin-left: 250px;
-    font-size: 18px;
+    margin-right: 200px;
+    font-size: 20px;
+    line-height: 1.6;
+    
+}
+
+img.personal_website_image {
+    margin-left: 350px;
+    margin-right: 200px;
+    height: 400px;
+    width: 750px;
+    border: 2px solid #5945f5;
 }
