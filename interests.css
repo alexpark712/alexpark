@@ -179,7 +179,7 @@ div.page {
     background:#e1e1e6 fixed;
     padding-top: 20px;
     padding-left: 50px;
-    padding-bottom: 50px;;
+    padding-bottom: 20px;;
     height: 100px;
 }
 
@@ -196,8 +196,7 @@ p.about_me_description {
     margin-left: 250px;
     font-size: 28px; 
     background:#e1e1e6 fixed;
-    height: 700px;
-    padding-top: 20px;
+    height: 250px;
     padding-left: 50px;
     display: flex;
 }
@@ -212,4 +211,74 @@ h1.about_title {
     padding-top: 30px;
     font: 40px;
     color: #5945f5;
+}
+
+p.reading {
+    margin-right: 200px;
+    font-size: 20px;
+    line-height: 1.6;
+}
+
+p.soccer {
+    margin-right: 200px;
+    font-size: 20px;
+    line-height: 1.6;
+}
+
+p.cooking {
+    margin-right: 200px;
+    font-size: 20px;
+    line-height: 1.6;
+}
+
+p.photovideo {
+    margin-right: 200px;
+    font-size: 20px;
+    line-height: 1.6;
+}
+
+p.entrepreneurship {
+    margin-right: 200px;
+    font-size: 20px;
+    line-height: 1.6;
+}
+
+div.cooking_info {
+    margin: 0%;
+    margin-left: 250px;
+    font-size: 28px; 
+    background:#e1e1e6 fixed;
+    height: 250px;
+    padding-left: 50px;
+    display: flex;
+}
+
+div.photovideo_info {
+    margin: 0%;
+    margin-left: 250px;
+    font-size: 28px; 
+    background:#e1e1e6 fixed;
+    height: 250px;
+    padding-left: 50px;
+    display: flex;
+}
+
+div.soccer_info {
+    margin: 0%;
+    margin-left: 250px;
+    font-size: 28px; 
+    background:#e1e1e6 fixed;
+    height: 250px;
+    padding-left: 50px;
+    display: flex;
+}
+
+div.entrepreneurship_info {
+    margin: 0%;
+    margin-left: 250px;
+    font-size: 28px; 
+    background:#e1e1e6 fixed;
+    height: 250px;
+    padding-left: 50px;
+    display: flex;
 }
