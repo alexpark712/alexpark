@@ -224,7 +224,7 @@ div.right {
     height: 600px;
     width: 350px;
     margin-left: 20px;
-    content: url("Images/about_me_photo.jpg");
+    content: url("about_me_photo.jpg");
     border: 2px solid #5945f5; 
 
 }
